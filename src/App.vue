@@ -15,7 +15,7 @@
         leave-from-class="opacity-100 scale-100 translate-y-0"
         leave-to-class="opacity-0 scale-90 -translate-y-2"
       >
-        <MenuItems class="mt-2 border border-black rounded max-w-sm flex flex-col divide-y divide-black bg-white shadow-xl focus:outline-none">
+        <MenuItems class="mt-2 max-w-sm flex flex-col divide-y divide-black bg-white shadow-xl border border-black rounded">
           <div class="px-6 py-3 text-xl">
             Signed in as <span class="font-bold">casper@adapt.dk</span>
           </div>
